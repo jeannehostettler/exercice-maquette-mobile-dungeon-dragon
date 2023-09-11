@@ -34,8 +34,12 @@ body {
   display: flex;
   justify-content: center;
   margin-top: 14px;
-  margin-bottom: 12px;
   background-color: #e7e7db;
+}
+
+.demongorgon {
+  border-top: 3px solid #df0000;
+  border-bottom: 3px solid #df0000;
 }
 
 a {
