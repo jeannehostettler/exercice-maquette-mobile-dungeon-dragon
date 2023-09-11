@@ -17,6 +17,8 @@
 
 html {
   font-size: 16px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
 }
 
 body {
@@ -40,6 +42,14 @@ body {
 .demongorgon {
   border-top: 3px solid #df0000;
   border-bottom: 3px solid #df0000;
+}
+
+h1 {
+  margin-top: 25px;
+}
+
+.red-text {
+  color: #df0000;
 }
 
 a {
